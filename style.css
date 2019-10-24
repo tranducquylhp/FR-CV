@@ -1,0 +1,52 @@
+#main{
+    width: 800px;
+    border: solid 5px black;
+}
+#head{
+    height: 200px;
+    width: 100%;
+    position: relative;
+    border-bottom: solid 1px gray;
+}
+
+#info{
+    left: 20px;
+    position: relative;
+    width: 30%;
+    float: left;
+}
+
+.info{
+    position: relative;
+    margin: 5px;
+    height: 10px;
+    width: 100%;
+}
+
+#avatar{
+    position: relative;
+    float: right;
+    width: 40%;
+    height: 150px;
+    margin: 30px;
+}
+
+#muc\ tieu, #kinh\ nghiem, #hoc\ van, #so\ thich{
+    position: relative;
+    width: 100%;
+    clear: both;
+    height: 100px;
+    border-bottom: solid 1px gray;
+}
+.title{
+    position: relative;
+    height: 100%;
+    width: 30%;
+    top: 10px;
+    float: left;
+}
+.content{
+    position: relative;
+    padding-left: 10px;
+    float: left;
+}
